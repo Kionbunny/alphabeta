@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+const fs = require('graceful-fs');
+
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          HEY fuck u !! <code>src/App.js</code> and save to reload.
+          HEY KRISHNA MANOJ !! <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
